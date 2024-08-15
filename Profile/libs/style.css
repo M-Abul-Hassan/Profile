@@ -1,0 +1,15 @@
+.lab1{
+    border: 10px solid skyblue;
+    background-color: skyblue;
+    color: white;
+}
+.lab2{
+    border: 2px solid skyblue;
+    background-color: rgb(228, 223, 223);
+    color: black;
+}
+.lab3{
+     padding-top: 20px;
+    background-color: white;
+    color: black;
+}
